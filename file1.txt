@@ -4,3 +4,5 @@ Este é o exemplo de um ficheiro .txt
 Alterei o ficheiro
 
 Alterações efetuadas no branch NovaFeature
+
+Alteração no brach MASTER
